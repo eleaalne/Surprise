@@ -1,0 +1,20 @@
+const letter = `
+Mi niña hermosa, 
+
+Hoy es 10 de abril del 2025, seguramente tu leerás esto semanas después pero desde que volvimos a hablar me di cuenta que de verdad te amo y que genuinamente quiero estar contigo. Estuve pensando varios días  como pedirte pero ya lo he decidido, te voy a hacer una página, sé que no será lo más bonito de la vida  pero esta hecho con amor. Tu siempre bromeas que mis códigos son tuyos y que todo lo que  hago es para ti, es por ello que he decidido hacerlo realidad y mostrarte un poquito de lo que sé. Aún así quiero que recuerdes que estudio ingeniería y que soy muy muy mala con el diseño por lo que de verdad intente que se viera bonito pero obvio no será lo mejor.
+
+Sin duda alguna eres lo más bonito que me ha pasado en la vida. Amo que seas parte de mi vida y de mi día a día. No pasa un día sin que desee que estuvieras más cerca y que viviéramos juntas pero te esperaría toda mi vida. Amo absolutamente todo de ti, tu risa, el chongo que te haces para dormir, como te sonrojas cuando te digo algo bonito, como siempre tratas de hacerme sentir mejor y como de verdad eres la persona más hermosa que he conocido. 
+
+Gracias por hacerme tan feliz, por enseñarme a amar, por confiar en mí y especialmente por ser parte de mi vida. Me encanta platicar contigo, me encanta todo. Siempre pienso lo bonito que sería la vida si viviéramos mas cerca. Eres mi mejor amiga por lo que solo pienso en todo lo que haríamos, quiero ir al parque, comerme una nieve, comerte ;), ir a hacer el super o la compra del mes. No puedo esperar a que vivamos juntas y a que estés ahí, a yo hacer mis cosas pero saber que estás cerca, que estás en la cocina o en el baño, lo que sea, que simplemente te puedo ir a buscar y te encontraré a pocos pasos de distancia. Me pone triste cuando la gente te trata mal o haces cosas sola, yo sé que a ti no me molesta ir a desayunar sola o así pero es que me muero por estar ahí. Yo quiero hacer todo contigo, quiero que pases tus días conmigo, quiero que seamos nosotras, quiero que estemos pegadas como chicle. 
+
+Aparte eres mi esposa y estás preciosa, quiero que todo el mundo vea lo bonita que estás pero que te vean conmigo.  De verdad que eres la mujer más hermosa que he conocido, yo sé que a veces tú no lo crees pero para mí eres absurdamente preciosa. Me tienes babeando por ti de lo bonita que estás. Tienes los ojos más hermosos que he visto y en los que podría perderme toda la vida, tus facciones solamente hacen sentido. Me encanta como se ve tu cabello, como tus mejillas se sonrojan, el rosado de tus labios, de verdad mujer que me muero por besarte. Cada día que pasa que tengo que vivir sin un beso tuyo siento que me quita años de mi vida. 
+
+Te amo con todo mi corazón, con cada pedazo de mi alma. Gracias por ser mía y por pasar tiempo conmigo. Eres perfecta, no puedo esperar a que nos casemos y tengamos hijos. A pasar mi vida contigo. Nunca te cambiaré y nunca nadie va a ocupar tu lugar, vamos a ser tu y yo hasta que me muera, hasta que estemos viejitas y te tenga que empujar en una silla de ruedas y no importa que pase siempre voy a estar contigo, incluso si te da alzheimer y me olvidas yo seré quien te cuide. Yo sé que lo vamos a lograr y te prometo amor mío que siempre voy a estar a tu lado, siempre me vas a tener para lo que necesites, voy a ser tu fan numero uno porque yo siempre SIEMPRE estoy orgullosa de ti. No me importa lo que los demás piensen de ti, para mí siempre serás la más hermosa, la más divertida, inteligente, amable y yo siempre te voy a amar y a necesitar porque sí, yo sí te necesito. No me imagino una vida sin ti, eres lo más bonito que tengo y me muero si te pasa algo.
+
+Quiero que todos sepan que estás conmigo y se pregunten ¿Cómo Ele se consiguió a alguien tan bonita? Y yo tipo ‘Yes bitches and she is fully MINE, she’s my girlfriend and she be my wife soon’. Creo que ahora entiendes un poco a que va esto jajajaj pero espero que siga siendo una sorpresa
+
+Con todo el amor del mundo,  
+Your wife 👩🏻‍❤️‍💋‍👩🏼
+`;
+
+export default letter;
